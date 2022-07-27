@@ -47,7 +47,7 @@
    </p>
 
 </br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=1rn19cs003&show_icons=true&locale=en&layout=compact" alt="1rn19cs003" /></br></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jerry2510&show_icons=true&locale=en&layout=compact" alt="Jerry2510" /></br></p>
 
 <!-- <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> -->
 </br>
